@@ -1,0 +1,11 @@
+#primary_navbar {
+    z-index: 100;
+}
+
+.navbar-brand {
+    font-size: 2rem !important;
+}
+
+.nav-link {
+    font-size: 1.7rem !important;
+}
